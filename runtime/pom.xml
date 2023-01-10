@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>cat.joanpujol</groupId>
+    <groupId>metatavu</groupId>
     <artifactId>quarkus-register-reflection-parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
   </parent>
   <artifactId>quarkus-register-reflection</artifactId>
   <name>Quarkus Register Reflection - Runtime</name>
