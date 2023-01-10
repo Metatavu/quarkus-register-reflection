@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>metatavu</groupId>
+    <groupId>com.github.metatavu</groupId>
     <artifactId>quarkus-register-reflection-parent</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
   </parent>
   <artifactId>quarkus-register-reflection-deployment</artifactId>
   <name>Quarkus Register Reflection - Deployment</name>
@@ -15,7 +15,7 @@
       <artifactId>quarkus-arc-deployment</artifactId>
     </dependency>
     <dependency>
-      <groupId>metatavu</groupId>
+      <groupId>com.github.metatavu</groupId>
       <artifactId>quarkus-register-reflection</artifactId>
       <version>${project.version}</version>
     </dependency>
